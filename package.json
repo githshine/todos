@@ -1,5 +1,5 @@
 {
-  "name": "nodejs-todo",
+  "name": "@hannah_li/todo",
   "version": "1.0.0",
   "description": "A simple to do list app ",
   "main": "index.js",
